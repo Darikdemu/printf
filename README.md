@@ -1,1 +1,3 @@
-ALX printf group project done by Darik and Nebiyou
+#printf project
+printf collaboration project
+this function works exactly like standard printf function
