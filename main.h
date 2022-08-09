@@ -183,7 +183,6 @@ unsigned int (*handle_specifiers(const char *specifier))(va_list, buffer_t *,
 							 unsigned char, int, int, unsigned char);
 
 
-
 /* Modifiers */
 
 unsigned int print_width(buffer_t *output, unsigned int printed,
