@@ -47,7 +47,7 @@ int i, j;
 	{
 	  
 	  if (flag[i] == flags[j].flag)
-	    
+
 	    {
 	      
 	      (*index)++;
