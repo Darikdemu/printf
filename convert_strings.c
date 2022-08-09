@@ -152,7 +152,7 @@ unsigned int convert_S(va_list args, buffer_t *output,
   (void)len;
   
   str = va_arg(args, char *);
-  
+ 
   if (str == NULL)
     
     return (_memcpy(output, null, 6));
